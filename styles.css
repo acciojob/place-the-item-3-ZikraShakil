@@ -1,2 +1,11 @@
+/* Apply styles to the holder class */
+.holder {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
 
-/* Your CSS Code here. */
+/* Apply styles to the item class (if needed) */
+.item {
+    /* Add any specific styles for your items if needed */
+}
